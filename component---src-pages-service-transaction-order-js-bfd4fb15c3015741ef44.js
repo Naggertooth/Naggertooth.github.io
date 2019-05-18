@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{345:function(a,e,t){"use strict";t.r(e);var n=t(1),c=t.n(n),o=t(369),l=t(378),r=t(368),i=t(479);e.default=function(a){var e=a.location;return c.a.createElement(o.a,{location:e},c.a.createElement(r.a,{title:"Поручение на сделку",keywords:["gatsby","application","react"]}),c.a.createElement(l.a,{location:e},c.a.createElement(i.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-service-transaction-order-js-bfd4fb15c3015741ef44.js.map
