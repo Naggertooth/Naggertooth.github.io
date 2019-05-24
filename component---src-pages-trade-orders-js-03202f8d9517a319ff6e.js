@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{355:function(e,a,t){"use strict";t.r(a);var n=t(1),l=t.n(n),c=t(377),o=t(387),r=t(376),i=t(375),u=t(487);a.default=function(e){var a=e.location;return l.a.createElement(c.a,{location:a},l.a.createElement(r.a,{title:"Торговля",keywords:["gatsby","application","react"]}),l.a.createElement(o.a,{location:a},l.a.createElement(i.a,{location:a,mobile:!0}),l.a.createElement("br",null),l.a.createElement(u.a,null)))}}}]);
-//# sourceMappingURL=component---src-pages-trade-orders-js-03202f8d9517a319ff6e.js.map
